@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jyotsana Shyama</h1>
 <h3 align="center">3rd Year B.Tech CSE Student</h3>
 
-<p align="center">
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=1080&center=true&lines=Welcome+To+My+Github+Profile3rd+Year+B.Tech+CSE+Student;Proficient+in+DSA+%7C+AI%2FML+Basics;Python+%26+Pandas+Expert;Competitive+Coder+%7C+Open+Source+Contributor;Always+Learning+New+Things)](https://git.io/typing-svg)
 
-</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jyotsanashyama" alt="jyotsanashyama" /></a> </p>
 
