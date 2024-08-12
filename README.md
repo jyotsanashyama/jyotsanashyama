@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jyotsana Shyama</h1>
 <h3 align="center">3rd Year B.Tech CSE Student</h3>
 
-<img align="right" alt="coding" width="400" src="[https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40Isha_&psig=AOvVaw2c1_Nzinn9Ipyb1t5fQys2&ust=1723578937333000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNja_4ee8IcDFQAAAAAdAAAAABAE)">
+<img align="right" alt="coding" width="400" src="https://images.app.goo.gl/8wgUSuuG9UT8vdUk8">
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jyotsanashyama" alt="jyotsanashyama" /></a> </p>
