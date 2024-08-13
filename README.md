@@ -19,5 +19,5 @@
 <h3>2. Jeevan Rakshan Blood Bank Website</h3>
 <p>- Deployed a fully functioned Blood bank with interactive form for user information <br>
   - <a href="https://github.com/jyotsanashyama/jyotsanashyama.github.io">Click here for Source code</a> <br>
-  - <a href=" https://jeevanrakshak.github.io/">Visit the website</a> to explore the project <br>
+  - <a href="https://jeevanrakshak.github.io/">Visit the website</a> <br>
 </p>
