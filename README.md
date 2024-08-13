@@ -1,11 +1,11 @@
-
+![Header](./assets/github-header-image.png)
 
 <h1 align="center">Hi 👋, I'm Jyotsana Shyama</h1>
 <h3 align="center">3rd Year B.Tech CSE Student</h3>
 
 
 
-<p align="right"> <img src="https://github.com/jyotsanashyama/jyotsanashyama/blob/main/assets/coding-girl.gif" alt="jyotsana-shyama" /> </p>
+<p align="right"> <img src="https://github.com/jyotsanashyama/jyotsanashyama/blob/main/assets/coding-girl.gif" alt="jyotsana-shyama"/> </p>
 
 
 
