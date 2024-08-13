@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Jyotsana Shyama</h1>
 <h3 align="center">3rd Year B.Tech CSE Student</h3>
 
-<img align="right" alt="coding" width="400" src="https://images.app.goo.gl/8wgUSuuG9UT8vdUk8">
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jyotsanashyama" alt="jyotsanashyama" /></a> </p>
+<p align="left"> <img src="https://github.com/jyotsanashyama/jyotsanashyama/blob/main/assets/coding-girl.gif" alt="jyotsana-shyama" /> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
