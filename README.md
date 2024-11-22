@@ -33,7 +33,7 @@
   - <a href="https://twitter-sentimentanalysis.streamlit.app/">Click here for deployed app </a><br>
 </p>
 
-<h3>Metro Network</h3>
+<h3>4. Metro Network</h3>
 <p>
   - An application that calculates the shortest path between two stations using Dijkstra’s algorithm.<br>
   - Utilized a graph-based approach to map the metro stations, where each station is a nodes and connection is a weighted edge.<br>
